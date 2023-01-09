@@ -9,7 +9,9 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: black;
+/*     background-color: black; */
+     width: 210mm;
+    height: 297mm;
 }
 .page{
     width: 210mm;
